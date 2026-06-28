@@ -1,0 +1,16 @@
+name: disc0rd
+category: Forensics
+description: |
+  Welcome to WOLF VILLAGE.
+
+  The entrance to the community is hidden somewhere in the provided image.
+  Look carefully, but not only with your eyes.
+
+value: 100
+type: standard
+
+flags:
+  - https://discord.gg/UkU85VvZx
+
+files:
+  - source.jpg

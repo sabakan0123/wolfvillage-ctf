@@ -10,7 +10,7 @@ values: 100
 type: standard 
 
 flags: 
-  - WOLF{join_the_community} 
+  - https://discord.gg/UkU85VvZx 
 
 files: 
   - source.jpg 
