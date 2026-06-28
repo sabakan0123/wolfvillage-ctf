@@ -1,0 +1,14 @@
+{
+  "name": "wolf-discord-plugin",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "build": "spago bundle --outfile assets/solve-discord.js",
+    "watch": "spago bundle --watch --outfile assets/solve-discord.js"
+  },
+  "devDependencies": {
+    "esbuild": "^0.25.5",
+    "purescript": "^0.15.15",
+    "spago": "^0.93.44"
+  }
+}

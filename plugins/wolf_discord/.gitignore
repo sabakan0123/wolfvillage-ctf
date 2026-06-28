@@ -1,0 +1,4 @@
+__pycache__/
+.spago/
+node_modules/
+output/

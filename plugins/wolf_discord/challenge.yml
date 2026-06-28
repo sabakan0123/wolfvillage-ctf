@@ -1,0 +1,16 @@
+name: disc0rd 
+category: Forensics
+description: | 
+  Welcome to WOLF VILLAGE. 
+
+  The entrance to the community is hidden somewhere in the provided image. 
+  Look carefully, but not only with your eyes. 
+
+values: 100 
+type: standard 
+
+flags: 
+  - WOLF{join_the_community} 
+
+files: 
+  - source.jpg 
